@@ -1,11 +1,11 @@
-baseURL = "https://examplesite.com"
+baseURL = "https://niubox.netlify.app"
 disableLanguages = ["fr"]
 disqusShortname = ""
 paginate = "6"
 summaryLength = "15"
 theme = "meghna-hugo"
 themesDir = "../.."
-title = "Meghna"
+title = "NuiBox - Your companion box"
 [Languages.en]
 contentDir = "content/english"
 copyright = "Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Gethugothemes](https://gethugothemes.com)"
@@ -85,8 +85,8 @@ name = "themefisher"
 url = "https://themefisher.com/"
 weight = 8
 [params]
-author = "Themefisher"
-description = "Responsive Multipurpose Parallax Hugo Template"
+author = "SML Ventures"
+description = "Niu Box - Your companion box"
 google_analytics_id = ""
 logo = "images/logo.png"
 post_share = true
@@ -124,13 +124,10 @@ link = "plugins/lazy-load/lozad.min.js"
 [[params.plugins.js]]
 link = "plugins/google-map/map.js"
 [params.preloader]
-enable = false
+enable = true
 preloader = "images/logo.png"
 [[params.social]]
 icon = "ti-facebook"
-link = "#"
-[[params.social]]
-icon = "ti-twitter-alt"
 link = "#"
 [[params.social]]
 icon = "ti-youtube"
