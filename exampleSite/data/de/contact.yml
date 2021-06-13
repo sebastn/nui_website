@@ -10,7 +10,7 @@ contact:
   - icon: ti-mobile
     info: 'Telefon: +49 ...'
   - icon: ti-email
-    info: 'Email: hello@meghna.com'
+    info: 'Email: nuibox@gmail.com'
   contact_form:
     enable: true
     form_action: "#"
