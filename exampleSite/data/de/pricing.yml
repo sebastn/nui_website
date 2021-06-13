@@ -8,7 +8,7 @@ pricing:
     unit: einmalig
     services:
     - Box Konsole
-    - 3 personalisierbare Chips
+    - 3 personalisierte Chips
     button:
       label: Anmelden
       link: "#"
