@@ -2,8 +2,8 @@
 contact:
   enable: true
   title: Kontakt
-  subtitle: Jede Anfrage wird innerhalb von 24 Std. bearbeitet!
-  content: Wir sind jederzeit für euch da.
+  subtitle: Wir sind jederzeit für euch da!
+  content: Jede Anfrage wird innerhalb von 24 Std. bearbeitet.
   contact_list:
   - icon: ti-location-pin
     info: Berlin, Deutschland
