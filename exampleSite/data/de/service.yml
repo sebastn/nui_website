@@ -11,10 +11,10 @@ service:
     icon: ti-layout
     content: Euer Training ist bei uns in guten Händen. Los geht's erst nach einem
       standardgemäßen Gesundheit-Test.
-  - name: Media &amp; Advertisement
+  - name: schnell
     icon: ti-blackboard
-    content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
-      facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+    content: Bei eurem ersten Start mit uns wartet sogleich die erste Fitness-Einheit
+      zum leichten Einstieg auf euch.
   - name: Graphic Design
     icon: ti-palette
     content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
