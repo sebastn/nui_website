@@ -23,7 +23,6 @@ service:
     icon: ti-package
     content: 'Euer persönliches Ziel wird euch stetig angezeigt und der Weg dorthin
       in kleinen erreichbaren Schritten aufgebaut. '
-  - name: Networking
+  - name: erfolgreich
     icon: ti-pulse
-    content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
-      facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+    content: 'Euer Erfolg ist unsere Motivation. '
