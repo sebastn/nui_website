@@ -20,18 +20,11 @@ team:
     social:
     - icon: ti-linkedin
       link: linkedin.com/in/leonhardlukoschek
-  - name: Michael Jonson
-    image_webp: images/team/team-3.webp
-    image: images/team/team-3.jpg
-    designation: Web Developer
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus
-      ullam, culpa odio.
+  - name: Sebastian Thomas
+    image_webp: ''
+    image: ''
+    designation: Gründer & Partner
+    content: Software & hardware engineer, IoT Expert, Sports Analytics
     social:
-    - icon: ti-facebook
-      link: "#"
-    - icon: ti-twitter-alt
-      link: "#"
     - icon: ti-linkedin
-      link: "#"
-    - icon: ti-dribbble
       link: "#"
