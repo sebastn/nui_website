@@ -86,7 +86,7 @@ url = "https://themefisher.com/"
 weight = 8
 [params]
 author = "SML Ventures"
-description = "Niu Box - Your companion box"
+description = "Nui Box - Your companion box"
 google_analytics_id = ""
 logo = "images/logo.png"
 post_share = true
