@@ -14,8 +14,8 @@ contact:
   contact_form:
     enable: true
     form_action: "#"
-    name: votre nom
-    email: Votre email
-    subject: Matière
-    message: Message
-    submit: Soumettre
+    name: Name
+    email: Email
+    subject: Thema
+    message: Nachricht
+    submit: Abschicken
