@@ -5,7 +5,7 @@ team:
   team_member :
     # team member loop
     - name : Marcel Isakowitz
-      image_webp : images/team/team-1.webp
+      image_webp : images/team/marcel_bw.webp
       image : images/team/marcel_bw.jpeg
       designation : Co-Founder
       content : Former pro athlete & personal trainer, Sports science & economics, Serial entrepreneur
@@ -22,7 +22,7 @@ team:
         
     # team member loop
     - name : Leonhard Lukoschek
-      image_webp : images/team/team-2.webp
+      image_webp : images/team/leo_bw.webp
       image : images/team/leo_bw.jpeg
       designation : Co-Founder
       content : Medical doctor, Business consultant, Triathlon coach & ski teacher
@@ -38,8 +38,8 @@ team:
         
     # team member loop
     - name : Sebastian Thomas
-      image_webp : images/team/team-3.webp
-      image : images/team/sebastian_bw.jpeg
+      image_webp : images/team/seb_bw.webp
+      image : images/team/seb_bw.jpeg
       designation : Co-Founder
       content : Software & hardware engineer, IoT Expert, Sports Analytics
       social :
