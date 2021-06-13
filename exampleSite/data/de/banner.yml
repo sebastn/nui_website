@@ -8,5 +8,5 @@ banner:
   content: Bewege Deine Welt!
   button:
     enable : true
-    label : "Explore Us"
+    label : "Wie?"
     link : "#team"

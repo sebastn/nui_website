@@ -1,8 +1,8 @@
 ---
 cta:
   enable: true
-  bg_image: images/backgrounds/bg-white-wall.jpg
-  bg_image_webp: images/backgrounds/bg-white-wall.webp
+  bg_image: images/backgrounds/4.jpg
+  bg_image_webp: images/backgrounds/4.webp
   title: Starte jetzt dein persönliches Fitness-Training ganz einfach bei dir zuhause!
   content: Unsere Box verwandelt deinen Fernseher in einen interaktives Fitness-Spiegel.
   button:
