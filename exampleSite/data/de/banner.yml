@@ -8,5 +8,5 @@ banner:
   content: Bewege Deine Welt!
   button:
     enable: true
-    label: Mehr
+    label: Wie?
     link: "#services"
