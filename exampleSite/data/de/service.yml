@@ -7,10 +7,10 @@ service:
     icon: ti-world
     content: Mit einer Bewegung könnt ihr eure Fitness-Einheit starten. Einfach den
       Chip auf die Box legen.
-  - name: Responsive Design
+  - name: sicher
     icon: ti-layout
-    content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
-      facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+    content: Euer Training ist bei uns in guten Händen. Los geht's erst nach einem
+      standardgemäßen Gesundheit-Test.
   - name: Media &amp; Advertisement
     icon: ti-blackboard
     content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
