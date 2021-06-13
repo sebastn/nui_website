@@ -7,5 +7,5 @@ cta:
   content: Unsere Box verwandelt deinen Fernseher in einen interaktives Fitness-Spiegel.
   button:
     enable: true
-    label: Start a project with us
+    label: Starten
     link: "#contact"
