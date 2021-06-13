@@ -1,5 +1,5 @@
 baseURL = "https://niubox.netlify.app"
-#disableLanguages = ["de"]
+#disableLanguages = ["en"]
 disqusShortname = ""
 paginate = "6"
 summaryLength = "15"
