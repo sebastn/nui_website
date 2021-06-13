@@ -15,10 +15,10 @@ service:
     icon: ti-blackboard
     content: Bei eurem ersten Start mit uns wartet sogleich die erste Fitness-Einheit
       zum leichten Einstieg auf euch.
-  - name: Graphic Design
+  - name: kompetent
     icon: ti-palette
-    content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
-      facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+    content: Alle Trainingspläne und Übungen werden von unseren fachlich top ausgebildeten
+      Experten abgestimmt.
   - name: Apps Development
     icon: ti-package
     content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
