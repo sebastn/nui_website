@@ -10,7 +10,7 @@ pricing:
     - Box Konsole
     - 3 personalisierbare Chips
     button:
-      label: Signup
+      label: Anmelden
       link: "#"
   - name: Silver
     price: "$149"
