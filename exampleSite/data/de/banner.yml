@@ -7,6 +7,6 @@ banner:
   title: Willkommen
   content: Bewege Deine Welt!
   button:
-    enable: true
-    label: Wie?
-    link: "#services"
+    enable : true
+    label : "Explore Us"
+    link : "#team"

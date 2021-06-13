@@ -53,29 +53,29 @@ languageCode = "de-de"
 languageName = "De"
 weight = 2
 [[Languages.de.menu.main]]
-name = "Impressum"
+name = "Über uns"
 url = "#about"
 weight = 1
-[[Languages.de.menu.main]]
-name = "un service"
-url = "#services"
-weight = 2
-[[Languages.de.menu.main]]
-name = "portefeuille"
-url = "#portfolio"
-weight = 3
+#[[Languages.de.menu.main]]
+#name = "un service"
+#url = "#services"
+#weight = 2
+#[[Languages.de.menu.main]]
+#name = "portefeuille"
+#url = "#portfolio"
+#weight = 3
 [[Languages.de.menu.main]]
 name = "Team"
 url = "#team"
 weight = 4
 [[Languages.de.menu.main]]
-name = "tarification"
+name = "Preise"
 url = "#pricing"
 weight = 5
-[[Languages.de.menu.main]]
-name = "blog"
-url = "#blog"
-weight = 6
+#[[Languages.de.menu.main]]
+#name = "blog"
+#url = "#blog"
+#weight = 6
 [[Languages.de.menu.main]]
 name = "Kontakt"
 url = "#contact"
