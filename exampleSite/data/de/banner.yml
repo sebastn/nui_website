@@ -1,12 +1,12 @@
-############################### Banner ################################
+---
 banner:
-  enable : true
-  bg_image_webp : "images/backgrounds/3.webp"
-  bg_image : "images/backgrounds/3.jpg"
-  icon : "" # themify icon pack : https://themify.me/themify-icons
-  title : "Experience the new reality"
-  content : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugit, excepturi. At recusandae sit perferendis autem,iste tempora nostrum numquam sapiente!"
+  enable: true
+  bg_image_webp: images/backgrounds/3.webp
+  bg_image: images/backgrounds/3.jpg
+  icon: ''
+  title: Willkommen
+  content: Macht einfach mit!
   button:
-    enable : true
-    label : "Explore Us"
-    link : "#services"
+    enable: true
+    label: Mehr
+    link: "#services"
