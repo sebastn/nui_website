@@ -27,7 +27,7 @@ h5,
 h6 {
   font-weight: 400;
   font-family: "Quattrocento Sans", sans-serif;
-  color: #afbac4;
+  color: #dfdfdf;
 }
 
 p {
@@ -39,7 +39,7 @@ p {
 }
 
 pre {
-  color: #afbac4;
+  color: #dfdfdf;
 }
 
 /*=================================================================
@@ -607,7 +607,7 @@ a:hover {
 }
 
 .about .block .icon-box h3 {
-  color: #afbac4;
+  color: #dfdfdf;
 }
 
 /*=================================================================
@@ -644,7 +644,7 @@ a:hover {
 
 .call-to-action h2 {
   font-weight: 700;
-  color: #afbac4;
+  color: #dfdfdf;
 }
 
 .call-to-action p {
@@ -1128,7 +1128,7 @@ a:hover {
 }
 
 .client-comment p {
-  color: #afbac4;
+  color: #dfdfdf;
   font-size: 18px;
 }
 
@@ -1490,7 +1490,7 @@ a:hover {
 }
 
 .post-comment-name {
-  color: #afbac4;
+  color: #dfdfdf;
   font-weight: 500;
   font-size: 18px;
 }

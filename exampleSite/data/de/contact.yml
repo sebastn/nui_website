@@ -13,7 +13,7 @@ contact:
     info: 'Email: nuibox@gmail.com'
   contact_form:
     enable: true
-    form_action: "#"
+    form_action: "https://formspree.io/f/xwkabbng"
     name: Name
     email: Email
     subject: Thema
