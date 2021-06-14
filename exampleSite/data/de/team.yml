@@ -1,30 +1,54 @@
----
+############################### team ############################
 team:
-  enable: true
-  title: Our Team
-  team_member:
-  - name: Marcel Isakowitz
-    image_webp: ''
-    image: ''
-    designation: Gründer & Partner
-    content: Former pro athlete & personal trainer, Sports science & economics, Serial
-      entrepreneur
-    social:
-    - icon: ti-linkedin
-      link: linkedin.com/in/marcelisakowitz
-  - name: Leonhard Lukoschek
-    image_webp: ''
-    image: ''
-    designation: Gründer & Partner
-    content: Medical doctor, Business consultant, Triathlon coach & ski teacher
-    social:
-    - icon: ti-linkedin
-      link: linkedin.com/in/leonhardlukoschek
-  - name: Sebastian Thomas
-    image_webp: ''
-    image: ''
-    designation: Gründer & Partner
-    content: Software & hardware engineer, IoT Expert, Sports Analytics
-    social:
-    - icon: ti-linkedin
-      link: linkedin.com/in/sebastn-t
+  enable : true
+  title : unser Team
+  team_member :
+    # team member loop
+    - name : Marcel Isakowitz
+      image_webp : images/team/marcel_bw.webp
+      image : images/team/marcel_bw.jpeg
+      designation : Gründer & Partner
+      content : Former pro athlete & personal trainer, Sports science & economics, Serial entrepreneur
+
+      social :
+        #- icon : ti-facebook # themify icon pack : https://themify.me/themify-icons
+        #  link : "#"
+        #- icon : ti-twitter-alt # themify icon pack : https://themify.me/themify-icons
+        #  link : "#"
+        - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
+          link : "https://www.linkedin.com/in/marcelisakowitz/"
+        #- icon : ti-dribbble # themify icon pack : https://themify.me/themify-icons
+        #  link : "#"
+        
+    # team member loop
+    - name : Leonhard Lukoschek
+      image_webp : images/team/leo_bw.webp
+      image : images/team/leo_bw.jpeg
+      designation : Gründer & Partner
+      content : Medical doctor, Business consultant, Triathlon coach & ski teacher
+      social :
+        #- icon : ti-facebook # themify icon pack : https://themify.me/themify-icons
+        #  link : "#"
+        #- icon : ti-twitter-alt # themify icon pack : https://themify.me/themify-icons
+        #  link : "#"
+        - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
+          link : "https://www.linkedin.com/in/leonhard-lukoschek-2447811a2/"
+        #- icon : ti-dribbble # themify icon pack : https://themify.me/themify-icons
+        #  link : "#"
+        
+    # team member loop
+    - name : Sebastian Thomas
+      image_webp : images/team/seb_bw.webp
+      image : images/team/seb_bw.jpeg
+      designation : Gründer & Partner
+      content : Software & hardware engineer, IoT Expert, Sports Analytics
+      social :
+        #- icon : ti-facebook # themify icon pack : https://themify.me/themify-icons
+        #  link : "#"
+        #- icon : ti-twitter-alt # themify icon pack : https://themify.me/themify-icons
+        #  link : "#"
+        - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
+          link : "https://www.linkedin.com/in/sebastn-t/"
+        #- icon : ti-dribbble # themify icon pack : https://themify.me/themify-icons
+        #  link : "#"
+      
