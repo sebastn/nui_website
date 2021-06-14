@@ -11,7 +11,7 @@ pricing:
     - 3 personalisierte Chips
     button:
       label: Anmelden
-      link: "contact"
+      link: "#contact"
   - name: Mitgliedschaft
     price: 30 €
     unit: Monat
@@ -20,7 +20,7 @@ pricing:
     - Gruppen-Training
     button:
       label: Anmelden
-      link: "contact"
+      link: "#contact"
   - name: Extra-Chips
     price: 10 €
     unit: Stück
@@ -29,4 +29,4 @@ pricing:
     - Chips für Video-Telefonie
     button:
       label: Anmelden
-      link: "contact"
+      link: "#contact"
