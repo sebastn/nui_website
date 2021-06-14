@@ -946,6 +946,7 @@ a:hover {
   Services section
 ==================================================================*/
 .service-block {
+  background: #242930;
   padding: 60px 20px;
   border-left: 1px solid rgba(236, 239, 241, 0.07);
   border-top: 1px solid rgba(236, 239, 241, 0.07);
