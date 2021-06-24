@@ -9,4 +9,4 @@ banner:
   button:
     enable: true
     label: STARTE JETZT
-    link: "#about"
+    link: "#contact"
