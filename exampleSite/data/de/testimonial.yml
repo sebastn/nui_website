@@ -11,7 +11,7 @@ testimonial:
     content: Dank euch kann ich meinen Fernseher direkt als Fitness-Spiegel zuhause
       nutzen!
   - name: Gisela Krohn
-    image: images/client/client-4.jpg
+    image: "/images/client/image.jpeg"
     image_webp: images/client/client-4.webp
     date: ''
     content: Noch nie war es so einfach motiviert fit zu werden - und das Beste ist,
