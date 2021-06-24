@@ -1,6 +1,6 @@
 ---
 cta:
-  enable: true
+  enable: false
   bg_image: "/images/images8.jpg"
   bg_image_webp: images/backgrounds/bg-funfact.webp
   title: Starte jetzt dein persönliches Fitness-Training ganz einfach bei dir zuhause!
