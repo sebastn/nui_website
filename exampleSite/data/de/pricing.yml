@@ -3,12 +3,13 @@ pricing:
   enable: true
   title: unsere Angebote
   pricing_table:
-  - name: Box
-    price: 220 €
+  - name: NuiBox
+    price: 86 €
     unit: einmalig
     services:
-    - Box Konsole
-    - 3 personalisierte Chips
+    - NuiBox Konsole
+    - 3 personalisierte Tokens
+    - ermöglicht den Zugang zu allen Fitness-Angeboten ganz bequem von zuhause
     button:
       label: Anmelden
       link: "#contact"
