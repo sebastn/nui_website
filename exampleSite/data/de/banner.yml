@@ -4,9 +4,9 @@ banner:
   bg_image_webp: images/backgrounds/3.webp
   bg_image: "/images/images2.jpg"
   icon: ''
-  title: Willkommen
-  content: Bewege Deine Welt!
+  title: Hier bist DU richtig :-)
+  content: Wir bewegen Deine Welt!
   button:
     enable: true
-    label: Wie?
+    label: STARTE JETZT
     link: "#about"
