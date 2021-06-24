@@ -24,12 +24,13 @@ pricing:
     button:
       label: Anmelden
       link: "#contact"
-  - name: Extra-Chips
-    price: 10 €
+  - name: Trainer Tokens
+    price: 24 €
     unit: Stück
     services:
-    - personalisierte Chips
-    - Chips für Video-Telefonie
+    - professionelle Trainingsübungen
+    - jederzeit durchführbar
+    - ermöglicht den Zugang zu einem bestimmten Trainingsthema von erfahrenen Trainern
     button:
       label: Anmelden
       link: "#contact"
