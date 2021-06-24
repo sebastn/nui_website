@@ -13,12 +13,14 @@ pricing:
     button:
       label: Anmelden
       link: "#contact"
-  - name: Mitgliedschaft
+  - name: Live-Kurse Mitgliedschaft
     price: 30 €
     unit: Monat
     services:
-    - Individueller Trainingsplan
-    - Gruppen-Training
+    - fester Rahmen-Trainingsplan
+    - Gruppen-Training unter Anleitung
+    - ermöglicht den Zugang zu allen Live-Kursen mit Freunden, neuen Bekannten und
+      Trainern
     button:
       label: Anmelden
       link: "#contact"
