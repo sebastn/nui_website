@@ -1,7 +1,7 @@
 ---
 team:
   enable: true
-  title: unser Team
+  title: Unser Team
   team_member:
   - name: Marcel Isakowitz
     image_webp: images/team/marcel_bw.webp
