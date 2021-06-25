@@ -7,8 +7,7 @@ banner:
   title: "Effizient zuhause trainieren!"
   content: 'Unsere innovative Lösung verwandelt deinen Fernseher zuhause in einen
     preiswerten und modernen Fitness-Spiegel. '
-  contact_form:
+  button:
     enable: true
-    form_action: https://formspree.io/f/xwkabbng
-    email: Email
-    submit: Subscribe 
+    label: STARTE JETZT
+    link: "#contact"
