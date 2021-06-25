@@ -53,10 +53,15 @@ home = "Home"
 languageCode = "de-de"
 languageName = "De"
 weight = 2
+
+[[Languages.de.menu.main]]
+name = "Kontakt"
+url = "#contact"
+weight = 1
 [[Languages.de.menu.main]]
 name = "Über uns"
 url = "#about"
-weight = 1
+weight = 2
 #[[Languages.de.menu.main]]
 #name = "un service"
 #url = "#services"
@@ -68,7 +73,7 @@ weight = 1
 [[Languages.de.menu.main]]
 name = "Team"
 url = "#team"
-weight = 4
+weight = 3
 [[Languages.de.menu.main]]
 name = "Preise"
 url = "#pricing"
@@ -77,10 +82,6 @@ weight = 5
 #name = "blog"
 #url = "#blog"
 #weight = 6
-[[Languages.de.menu.main]]
-name = "Kontakt"
-url = "#contact"
-weight = 7
 
 [params]
 author = "SML Ventures"
