@@ -1,7 +1,7 @@
 ---
 service:
   enable: true
-  title: unsere Leistungen
+  title: Unsere Leistungen
   service_item:
   - name: intuitiv
     icon: ti-world
