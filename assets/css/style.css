@@ -476,7 +476,7 @@ a:hover {
 .hero-area .block h1 {
   font-size: 90px;
   color: #fff;
-  text-transform: capitalize;
+  text-transform: none;
   font-weight: 700;
   margin-bottom: 20px;
 }
@@ -1233,7 +1233,7 @@ a:hover {
   margin: 0 0 6px;
   font-size: 20px;
   line-height: 1.5;
-  text-transform: capitalize;
+  text-transform: none;
 }
 
 .note .media-wrapper {
@@ -1243,7 +1243,7 @@ a:hover {
 .note .excerpt h3 {
   font-size: 20px;
   line-height: 1.5;
-  text-transform: capitalize;
+  text-transform: none;
 }
 
 .all-post {
