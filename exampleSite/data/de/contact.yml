@@ -1,9 +1,10 @@
 ---
 contact:
   enable: true
-  title: Hier kannst du dich unverbindlich anmelden
-  subtitle: Wir sind jederzeit für euch da!
-  content: Jede Anfrage wird innerhalb von 24 Std. bearbeitet.
+  title: Dein Ziel ist in greifbarer Nähe
+  subtitle: Hier kannst du dich unverbindlich anmelden.
+  content: Jede Anfrage wird innerhalb von 24 Std. bearbeitet. Wir sind jederzeit
+    für euch da!
   contact_list: []
   contact_form:
     enable: true
