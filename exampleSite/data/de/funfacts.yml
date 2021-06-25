@@ -1,8 +1,8 @@
 ---
 funfacts:
   enable: true
-  bg_image: "/images/istockphoto-1020523870-612x612.jpg"
-  bg_image_webp: "/images/istockphoto-1020523870-612x612.jpg"
+  bg_image: "/images/backgrounds/bg-funfact1.jpg"
+  bg_image_webp: "/images/backgrounds/bg-funfact1.webp"
   counter_item:
   - title: Test Athleten
     icon: ti-face-smile
