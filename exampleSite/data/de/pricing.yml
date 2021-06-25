@@ -1,7 +1,7 @@
 ---
 pricing:
   enable: true
-  title: unsere Angebote
+  title: Unsere Angebote
   pricing_table:
   - name: NuiBox
     price: 86 €
